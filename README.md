@@ -6,9 +6,6 @@ GobFinderWebApplication is a freelancing software designed for mini companies. I
 ## Features
 - Job Posting: Companies can post job listings and requirements.
 - Freelancer Profiles: Freelancers can create profiles showcasing their skills and experience.
-- Job Matching: Intelligent matching of freelancers to job postings based on skills and availability.
-- Communication: Built-in messaging system for companies and freelancers to communicate.
-- Project Management: Tools to manage ongoing projects and track progress.
 
 ## Installation
 Follow these steps to set up the project locally:
